@@ -1,0 +1,9 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+pydantic==2.7.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-google-genai==1.0.2
+langchain-core==0.1.52
+chromadb==0.4.24
+lark==1.1.9
