@@ -92,6 +92,21 @@ The implementation involved setting up the project structure, integrating necess
 
 The application aims to assist users by providing accurate and contextually relevant responses to their questions, leveraging advanced NLP techniques and tools to enhance the educational experience.
 
+<div align="center">
+
+<img src="https://github.com/AymanAitAhmed/FSTT-Chatbot/blob/main/screenshots/interface_light_theme.jpg" width="40%">
+
+<img src="https://github.com/AymanAitAhmed/FSTT-Chatbot/blob/main/screenshots/interface_dark_theme.jpg" width="40%">
+
+</div>
+<div align="center">
+
+<img src="https://github.com/AymanAitAhmed/FSTT-Chatbot/blob/main/screenshots/conversation.jpg" width="40%">
+
+<img src="https://github.com/AymanAitAhmed/FSTT-Chatbot/blob/main/screenshots/admin.jpg" width="40%">
+
+</div>
+
 ## Conclusion
 
 The FST Chatbot project demonstrates the potential of integrating modern NLP techniques and tools to create intelligent and contextually aware chatbots. This project serves as a valuable case study in the educational domain, showcasing the capabilities of fine-tuned language models in providing meaningful user interactions.
